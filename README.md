@@ -185,15 +185,6 @@ npm start
 
 The app runs at `http://localhost:3000`.
 
----
-
-## Screenshots
-
-> Add screenshots to a `screenshots/` folder and they will appear here.
-
-| Home | Pet Details | Seller Dashboard |
-|---|---|---|
-| ![Home](screenshots/home.png) | ![Pet](screenshots/pet-details.png) | ![Seller](screenshots/seller-dashboard.png) |
 
 ---
 
